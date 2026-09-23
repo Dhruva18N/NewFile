@@ -1,2 +1,6 @@
 Line 2:Hello world
+<<<<<<< Updated upstream
 Line 3:feature edit
+=======
+Line 4:temp note
+>>>>>>> Stashed changes
